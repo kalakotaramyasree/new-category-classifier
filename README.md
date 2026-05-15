@@ -55,7 +55,7 @@ Visit https://share.streamlit.io and sign in with GitHub
 - Click **"Deploy!"**
 
 Your app will be live at:
-`https://<your-username>-bbc-news-classifier.streamlit.app`
+https://new-category-classifier-dycyh6kqete4h4r4bwrvre.streamlit.app/
 
 ---
 
